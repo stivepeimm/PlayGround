@@ -30,7 +30,11 @@
     - 搜索引擎是怎么帮我们找到答案的？
     - [【看云】在线编辑文档那么方便，我为什么不用？对啊，有坑啊！](https://mp.weixin.qq.com/s/WHwsyJ1fsFA1AC0jR3C2FQ)
     - 我有三个“母亲”
-    - 是谁在浪费公共
+    - [是谁在浪费公共](https://mp.weixin.qq.com/s/20_izEv9WtIn12bCO95GjA)
+    - 成年男人手机里是否有自己的全身照片？
+    - [公司年会节目到底要不要参加](https://mp.weixin.qq.com/s/8ZbSFDO9luRLS83qjmwbdw)
+    - [年会相声-程序员](https://mp.weixin.qq.com/s/gJ582Uq5HLyGqEoG4SbhCw)
+    - [你在外过的第一个春节时几岁？](https://mp.weixin.qq.com/s/ALipofE4zYQkneQIyU016g)
 - 前后端分离
     - [前后端分离到底分离了什么](https://mp.weixin.qq.com/s/2cUQlbakZNDQhtkBq8D_2g)
     - 前后端分离后倒地谁多干活了
