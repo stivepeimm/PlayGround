@@ -40,7 +40,6 @@
     - 前后端分离后倒地谁多干活了
     - 前后端分离仅仅是 vue react angularJs 吗？
 - 玩代码
-
-    - 制作跳动的字符
+    - 一个标准的Springboot —+ vue + uniapp 的商城怎么部署
 
 
