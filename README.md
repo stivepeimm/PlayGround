@@ -31,16 +31,24 @@
     - [【看云】在线编辑文档那么方便，我为什么不用？对啊，有坑啊！](https://mp.weixin.qq.com/s/WHwsyJ1fsFA1AC0jR3C2FQ)
     - 我有三个“母亲”
     - [是谁在浪费公共](https://mp.weixin.qq.com/s/20_izEv9WtIn12bCO95GjA)
-    - 成年男人手机里是否有自己的全身照片？
+    - [成年男人手机里是否有自己的全身照片？](https://mp.weixin.qq.com/s/N0J_HlPqqbwNCn1f-n4rog)
     - [公司年会节目到底要不要参加](https://mp.weixin.qq.com/s/8ZbSFDO9luRLS83qjmwbdw)
     - [年会相声-程序员](https://mp.weixin.qq.com/s/gJ582Uq5HLyGqEoG4SbhCw)
     - [你在外过的第一个春节时几岁？](https://mp.weixin.qq.com/s/ALipofE4zYQkneQIyU016g)
+    - [我唯一的一个爷爷](https://mp.weixin.qq.com/s/fWzD_-bx4JGrEOexRzFIMg)
+    - [2021年春节，你是衣锦还乡，还是倦鸟归巢。](https://mp.weixin.qq.com/s/ZZRc4_cZZ1Ozq3LZu4CFSQ)
+    - [过年带娃，学会倾听，你和孩子绝对会成为好朋友](https://mp.weixin.qq.com/s/LZGpO-DvGteVN4AwBuqlVA)
+    - [一块无字碑，评价天下人。](https://mp.weixin.qq.com/s/lDaBLoYX71Six9XALtikfg)
+    - [我用20分钟搭建了一个电商系统](https://mp.weixin.qq.com/s/E6k_UU3Nx3-x6KegwO2DsA)
+    - [2021走亲戚](https://mp.weixin.qq.com/s/SuujF-YCZczsT6uDLeONPw)
+    - 你有没有被假期时间撕碎
+    - 三十而立，不管你有没有立，剩下的都是责任
 - 前后端分离
     - [前后端分离到底分离了什么](https://mp.weixin.qq.com/s/2cUQlbakZNDQhtkBq8D_2g)
     - 前后端分离后倒地谁多干活了
     - 前后端分离仅仅是 vue react angularJs 吗？
-- 玩代码
+- 工具
 
-    - 制作跳动的字符
+    - Intellij家族激活码
 
 
