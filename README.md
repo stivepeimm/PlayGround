@@ -41,15 +41,17 @@
     - [一块无字碑，评价天下人。](https://mp.weixin.qq.com/s/lDaBLoYX71Six9XALtikfg)
     - [我用20分钟搭建了一个电商系统](https://mp.weixin.qq.com/s/E6k_UU3Nx3-x6KegwO2DsA)
     - [2021走亲戚](https://mp.weixin.qq.com/s/SuujF-YCZczsT6uDLeONPw)
-    - 你有没有被假期时间撕碎
+    - [你有没有被假期时间撕碎](https://mp.weixin.qq.com/s/OVgLsKN8n3mKsrqe3Q9IgA)
     - 三十而立，不管你有没有立，剩下的都是责任
+    - [项目上线背后的人在干什么](https://mp.weixin.qq.com/s/M9QOxWxfprhuxtUOYr6ySw)
+    - 有人骂你的开源项目怎么办
 - 前后端分离
     - [前后端分离到底分离了什么](https://mp.weixin.qq.com/s/2cUQlbakZNDQhtkBq8D_2g)
     - 前后端分离后倒地谁多干活了
     - 前后端分离仅仅是 vue react angularJs 吗？
 - 工具
-    - Intellij家族激活码
+    - [Intellij家族激活码](https://mp.weixin.qq.com/s/gtqT47LQLZPG0rcfGWfKNQ)
 - 玩代码
-    - 一个标准的Springboot —+ vue + uniapp 的商城怎么部署
+    - [一个标准的Springboot —+ vue + uniapp 的商城怎么部署](https://mp.weixin.qq.com/s/eFTr3-3w_5vA5veCdyCzZw)
 
 
