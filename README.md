@@ -1,6 +1,8 @@
 # PlayGround
 - **福利**
 - 关注微信公众号 **西北大粽子** 回复关键字 666 即可获取软件开发 **葵花宝典** 每周会更新更多资料供您学习
+
+![](https://gitee.com/stivepeim/img4mk/raw/master/20210304160227.png)
 - 资料分享
   - 电子书
   - 软件分享
@@ -53,5 +55,7 @@
     - [Intellij家族激活码](https://mp.weixin.qq.com/s/gtqT47LQLZPG0rcfGWfKNQ)
 - 玩代码
     - [一个标准的Springboot —+ vue + uniapp 的商城怎么部署](https://mp.weixin.qq.com/s/eFTr3-3w_5vA5veCdyCzZw)
+- 微信小程序
+    - 小程序推广码我debug了半天
 
 
