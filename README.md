@@ -46,7 +46,10 @@
     - [你有没有被假期时间撕碎](https://mp.weixin.qq.com/s/OVgLsKN8n3mKsrqe3Q9IgA)
     - 三十而立，不管你有没有立，剩下的都是责任
     - [项目上线背后的人在干什么](https://mp.weixin.qq.com/s/M9QOxWxfprhuxtUOYr6ySw)
-    - 有人骂你的开源项目怎么办
+    - [有人骂你的开源项目怎么办](https://mp.weixin.qq.com/s/05vsJZ6cl--g1JGihPdFKQ)
+    - 为什么有的极客不愿意用宝塔
+    - [域名和服务器不是一个平台买的可以备案吗？【华为云和阿里云为例】](https://mp.weixin.qq.com/s/nzWpOKJShpJtIHIApmfKmQ)
+    - 早晨上班我在车上听儿歌笑的像个傻子
 - 前后端分离
     - [前后端分离到底分离了什么](https://mp.weixin.qq.com/s/2cUQlbakZNDQhtkBq8D_2g)
     - 前后端分离后倒地谁多干活了
@@ -56,6 +59,15 @@
 - 玩代码
     - [一个标准的Springboot —+ vue + uniapp 的商城怎么部署](https://mp.weixin.qq.com/s/eFTr3-3w_5vA5veCdyCzZw)
 - 微信小程序
-    - 小程序推广码我debug了半天
+    - [小程序推广码我debug了半天](https://mp.weixin.qq.com/s/QmxgtTdqf2xvMhX_UgtrXA)
+- 开源项目
+    - 电商
+        - [【开源电商基础介绍】了解一个电商基础](https://mp.weixin.qq.com/s/d7TAOzcCtjpNwqqAeU8ftA)
+        - [【开源电商快速浏览】不会运行没关系，跟着文档找节奏](https://mp.weixin.qq.com/s/DrRn0Zx-WPMe_Ocg7Oo1MA)
+        - [【开源电商服务部署】域名+后台服务](https://mp.weixin.qq.com/s/s5CqqlcLrDsLY8NEU47_4w)
+        - [【开源电商宝塔】宝塔使用和站点创建](https://mp.weixin.qq.com/s/2TDLMvmZM1EXDnJ39kR6Qw)
+        - [【开源电商表单工具】减少表单重复开发，拖拉拽搞定](https://mp.weixin.qq.com/s/1an2WYS10rwtWzQobs34kQ)
+        - [【开源电商无限极分类设计】前同事留下的经典功能](https://mp.weixin.qq.com/s/e8TNaRpdX71C74O3BtBa7A)
+        - [【开源电商基本功能介绍】组合数据](https://mp.weixin.qq.com/s/naRUwGHY1bOn9UepeOErTg)
 
 
