@@ -8,6 +8,7 @@
   - 软件分享
   - 浏览器插件
 - JAVA
+    - 一个被遗忘的Java帝国Swing
 - 为什么金额计算不能用Double
     - 面试基础问答
     - 银行项目为什么不用HashMap
@@ -47,21 +48,24 @@
     - 三十而立，不管你有没有立，剩下的都是责任
     - [项目上线背后的人在干什么](https://mp.weixin.qq.com/s/M9QOxWxfprhuxtUOYr6ySw)
     - [有人骂你的开源项目怎么办](https://mp.weixin.qq.com/s/05vsJZ6cl--g1JGihPdFKQ)
-    - 为什么有的极客不愿意用宝塔
     - [域名和服务器不是一个平台买的可以备案吗？【华为云和阿里云为例】](https://mp.weixin.qq.com/s/nzWpOKJShpJtIHIApmfKmQ)
-    - 早晨上班我在车上听儿歌笑的像个傻子
+    - [早晨上班我在车上听儿歌笑的像个傻子](https://mp.weixin.qq.com/s/Lz2Q8Sy2VUjkfsB8qWYCXA)
+    - [今天我要分享点负能量](https://mp.weixin.qq.com/s/d6pWlr-Rl8rhdjyb4YGwCg)
+    - [老师说不带鞋套电脑会中病毒](https://mp.weixin.qq.com/s/y1e5AkaE9BccEBmGYUbrNg)
 - 前后端分离
     - [前后端分离到底分离了什么](https://mp.weixin.qq.com/s/2cUQlbakZNDQhtkBq8D_2g)
     - 前后端分离后倒地谁多干活了
     - 前后端分离仅仅是 vue react angularJs 吗？
 - 工具
     - [Intellij家族激活码](https://mp.weixin.qq.com/s/gtqT47LQLZPG0rcfGWfKNQ)
+    - [暴力解决npm install](https://mp.weixin.qq.com/s/mmirwpKF9-DkKr7zu4_tTA)
 - 玩代码
     - [一个标准的Springboot —+ vue + uniapp 的商城怎么部署](https://mp.weixin.qq.com/s/eFTr3-3w_5vA5veCdyCzZw)
-- 微信小程序
+- 微信
     - [小程序推广码我debug了半天](https://mp.weixin.qq.com/s/QmxgtTdqf2xvMhX_UgtrXA)
+    - [我被微信审核搞得死去活来](https://mp.weixin.qq.com/s/CWEW8Mn0A2xeU6w1pHvW7Q)
 - 开源项目
-    - 电商
+    - 电商Java和WEBPC管理端
         - [【开源电商基础介绍】了解一个电商基础](https://mp.weixin.qq.com/s/d7TAOzcCtjpNwqqAeU8ftA)
         - [【开源电商快速浏览】不会运行没关系，跟着文档找节奏](https://mp.weixin.qq.com/s/DrRn0Zx-WPMe_Ocg7Oo1MA)
         - [【开源电商服务部署】域名+后台服务](https://mp.weixin.qq.com/s/s5CqqlcLrDsLY8NEU47_4w)
@@ -69,5 +73,20 @@
         - [【开源电商表单工具】减少表单重复开发，拖拉拽搞定](https://mp.weixin.qq.com/s/1an2WYS10rwtWzQobs34kQ)
         - [【开源电商无限极分类设计】前同事留下的经典功能](https://mp.weixin.qq.com/s/e8TNaRpdX71C74O3BtBa7A)
         - [【开源电商基本功能介绍】组合数据](https://mp.weixin.qq.com/s/naRUwGHY1bOn9UepeOErTg)
+    - 电商移动端 H5 微信小程序 app
+        - Hbuilder 打包H5
+        - Hbuilder 打包微信小程序
+        - Hbuilder 打包APP
+            - 打包IOS
+                - [IOS证书申请和Hbuilder基本操作](https://mp.weixin.qq.com/s/JS8zp34NmB-tQBnoupuJyw)
+                - IOS最简单的内侧方式
+                - IOS内侧TestFlight
+                - IOS公测TestFlight
+                - IOS程序上线
+            - 打包Android
+                - 打包Android程序
+                - 上传各大商店
+- Mac
+    - mac压缩的文件夹为什么会有一个隐藏文件
 
 
