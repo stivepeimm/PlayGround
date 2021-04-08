@@ -52,6 +52,9 @@
     - [早晨上班我在车上听儿歌笑的像个傻子](https://mp.weixin.qq.com/s/Lz2Q8Sy2VUjkfsB8qWYCXA)
     - [今天我要分享点负能量](https://mp.weixin.qq.com/s/d6pWlr-Rl8rhdjyb4YGwCg)
     - [老师说不带鞋套电脑会中病毒](https://mp.weixin.qq.com/s/y1e5AkaE9BccEBmGYUbrNg)
+    - [被催更是一种什么体验](https://mp.weixin.qq.com/s/gG2rmwu3k1eTjEa8TcH7Jw)
+    - [无论事情多大，健康第一](https://mp.weixin.qq.com/s/VRhovoWRFouhqOLaQo0pnQ)
+    - 你接到过什么让你感觉害怕的电话
 - 前后端分离
     - [前后端分离到底分离了什么](https://mp.weixin.qq.com/s/2cUQlbakZNDQhtkBq8D_2g)
     - 前后端分离后倒地谁多干活了
@@ -59,8 +62,6 @@
 - 工具
     - [Intellij家族激活码](https://mp.weixin.qq.com/s/gtqT47LQLZPG0rcfGWfKNQ)
     - [暴力解决npm install](https://mp.weixin.qq.com/s/mmirwpKF9-DkKr7zu4_tTA)
-- 玩代码
-    - [一个标准的Springboot —+ vue + uniapp 的商城怎么部署](https://mp.weixin.qq.com/s/eFTr3-3w_5vA5veCdyCzZw)
 - 微信
     - [小程序推广码我debug了半天](https://mp.weixin.qq.com/s/QmxgtTdqf2xvMhX_UgtrXA)
     - [我被微信审核搞得死去活来](https://mp.weixin.qq.com/s/CWEW8Mn0A2xeU6w1pHvW7Q)
@@ -73,20 +74,44 @@
         - [【开源电商表单工具】减少表单重复开发，拖拉拽搞定](https://mp.weixin.qq.com/s/1an2WYS10rwtWzQobs34kQ)
         - [【开源电商无限极分类设计】前同事留下的经典功能](https://mp.weixin.qq.com/s/e8TNaRpdX71C74O3BtBa7A)
         - [【开源电商基本功能介绍】组合数据](https://mp.weixin.qq.com/s/naRUwGHY1bOn9UepeOErTg)
+        - [【开源电商快速部署服务】基于宝塔](https://mp.weixin.qq.com/s/VZ5zCuScA-zZzZCYxfxByA)
+        - [一个标准的Springboot —+ vue + uniapp 的商城怎么部署](https://mp.weixin.qq.com/s/eFTr3-3w_5vA5veCdyCzZw)
     - 电商移动端 H5 微信小程序 app
-        - Hbuilder 打包H5
+        - [Hbuilder 打包H5](https://mp.weixin.qq.com/s/RJcxuETOyGF5g2eEKmiUSQ)
         - Hbuilder 打包微信小程序
         - Hbuilder 打包APP
+            - 打包 Android
+                - [基础](https://mp.weixin.qq.com/s/ow89et99BKHZjYJ8KxnmTw)
+                - [本地调试](https://mp.weixin.qq.com/s/mcRxziGvJTt_8Skb8ucZTg)
+                - [打包上线](https://mp.weixin.qq.com/s/VF9HDfmgZvx-MD9kXQbJcw)
+                - [其他开源uniapp 打包 app 填坑指南](https://mp.weixin.qq.com/s/jbFjzdPu6Q1FKSZ7KkRQmA)
             - 打包IOS
                 - [IOS证书申请和Hbuilder基本操作](https://mp.weixin.qq.com/s/JS8zp34NmB-tQBnoupuJyw)
-                - IOS最简单的内侧方式
-                - IOS内侧TestFlight
-                - IOS公测TestFlight
-                - IOS程序上线
-            - 打包Android
-                - 打包Android程序
-                - 上传各大商店
+                - [IOS最简单的内侧方式](https://mp.weixin.qq.com/s/qCkPRJZNWeRnm1-P7XLr1w)
+                - [IOS公测TestFlight](https://mp.weixin.qq.com/s/t6x28PD35hH2JH3rpHTmTg)
+                - [记一次IOS APP 审核经历](https://mp.weixin.qq.com/s/dhzqK03WvAvB6KIhW9-CsQ)
 - Mac
     - mac压缩的文件夹为什么会有一个隐藏文件
+- 全栈 和 学习
+    - [只会VUE 想学一门后端语言开发自己的Blog 应该学Java 还是 NodeJS](https://mp.weixin.qq.com/s/-OHpgz9aoIJ6nnnf7aa4_g)
+    - 大专学历，27岁自学Java晚不晚
+    - Java 和 Python 学哪个比较有前景
+    - 非计算机专业学Java 自学还是去培训班
+    - 想做知识付费 做个带斜杠的人 应该怎么入行
+    - Java 应该怎么学，大佬们给的指点
+    - 前端开发有需要转后端吗？
+    - 怎么做才能学好Java
+    - 后端开发第一次做项目，改如何实现前端界面？可以直接拿开源项目过来直接用吗？
+    - 本科双飞计算机，硕士C9软件工程，进大厂选择后端开发还是算法研发？
+    - 英语基础差，学Java 难吗？
+    - 毕业两年，转行IT，零基础，学运维还是前后端开发更符合实际行业需求？
+    - 自学Java半年，可能坚持不下去了？
+    - 哪种后端技术的发展前景广阔
+    - 目前学前端好还是Java后台好？
+    - 做一个小程序到底需要多少钱？
+    - 后端入库前不做校验，完全依赖前端表单验证，这合理么？
+    - 初中学历，现在学前端来得及吗？
+    - 自学一周能做出一个基于web的前端网站吗？
+    - JS，C，C++，Python，Java零基础哪个最好学？
 
 
