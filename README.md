@@ -9,7 +9,7 @@
   - 浏览器插件
 - JAVA
     - 一个被遗忘的Java帝国Swing
-- 为什么金额计算不能用Double
+    - 为什么金额计算不能用Double
     - 面试基础问答
     - 银行项目为什么不用HashMap
     - 枚举
@@ -21,7 +21,7 @@
   - http通信协议
   - 揭开http神秘面纱
   - 面试官问http的基本知识点
-- 数据库
+- DB 数据库
   - 索引是什么，没有可以不
   - 连表查询 到底应该怎么用
   - 数据库锁机制
@@ -32,7 +32,7 @@
     - JSON序列化引起的一次线上bug 甩不掉的锅
     - 搜索引擎是怎么帮我们找到答案的？
     - [【看云】在线编辑文档那么方便，我为什么不用？对啊，有坑啊！](https://mp.weixin.qq.com/s/WHwsyJ1fsFA1AC0jR3C2FQ)
-    - 我有三个“母亲”
+    - [我有三个“母亲”](https://mp.weixin.qq.com/s/i1Qk_115BeUx1qA7A1VyEw)
     - [是谁在浪费公共](https://mp.weixin.qq.com/s/20_izEv9WtIn12bCO95GjA)
     - [成年男人手机里是否有自己的全身照片？](https://mp.weixin.qq.com/s/N0J_HlPqqbwNCn1f-n4rog)
     - [公司年会节目到底要不要参加](https://mp.weixin.qq.com/s/8ZbSFDO9luRLS83qjmwbdw)
@@ -54,7 +54,11 @@
     - [老师说不带鞋套电脑会中病毒](https://mp.weixin.qq.com/s/y1e5AkaE9BccEBmGYUbrNg)
     - [被催更是一种什么体验](https://mp.weixin.qq.com/s/gG2rmwu3k1eTjEa8TcH7Jw)
     - [无论事情多大，健康第一](https://mp.weixin.qq.com/s/VRhovoWRFouhqOLaQo0pnQ)
-    - 你接到过什么让你感觉害怕的电话
+    - [程序员周末带娃比上班还累](https://mp.weixin.qq.com/s/0o_-RRyGgDgnGznVtY4Org)
+    - [我的视频在B站火了？](https://mp.weixin.qq.com/s/mmJpGMJxEYMDxyNUQvworg)
+    - [同事干私活要不要举报他](https://mp.weixin.qq.com/s/MhjwZ8ppS12LJagvml0GJQ)
+    - [技术牛B的人修改BUG就一定很快吗？](https://mp.weixin.qq.com/s/FWWUlD9Gsl332ACnylBweA)
+    - [文科生误国？理科生在干嘛？](https://mp.weixin.qq.com/s/Ia0MAiNtUq07GQit0PAh1Q)
 - 前后端分离
     - [前后端分离到底分离了什么](https://mp.weixin.qq.com/s/2cUQlbakZNDQhtkBq8D_2g)
     - 前后端分离后倒地谁多干活了
@@ -78,7 +82,8 @@
         - [一个标准的Springboot —+ vue + uniapp 的商城怎么部署](https://mp.weixin.qq.com/s/eFTr3-3w_5vA5veCdyCzZw)
     - 电商移动端 H5 微信小程序 app
         - [Hbuilder 打包H5](https://mp.weixin.qq.com/s/RJcxuETOyGF5g2eEKmiUSQ)
-        - Hbuilder 打包微信小程序
+        - [Hbuilder 打包微信小程序](https://mp.weixin.qq.com/s/KAqJFGVoZGWs5gdq1-zU2A)
+        - [最快的方式实现静态文件服务nginx&Tomcat](https://mp.weixin.qq.com/s/pmx1n55imSBUHTOIOi-Rlw)
         - Hbuilder 打包APP
             - 打包 Android
                 - [基础](https://mp.weixin.qq.com/s/ow89et99BKHZjYJ8KxnmTw)
@@ -93,25 +98,22 @@
 - Mac
     - mac压缩的文件夹为什么会有一个隐藏文件
 - 全栈 和 学习
-    - [只会VUE 想学一门后端语言开发自己的Blog 应该学Java 还是 NodeJS](https://mp.weixin.qq.com/s/-OHpgz9aoIJ6nnnf7aa4_g)
-    - 大专学历，27岁自学Java晚不晚
-    - Java 和 Python 学哪个比较有前景
-    - 非计算机专业学Java 自学还是去培训班
-    - 想做知识付费 做个带斜杠的人 应该怎么入行
-    - Java 应该怎么学，大佬们给的指点
-    - 前端开发有需要转后端吗？
-    - 怎么做才能学好Java
-    - 后端开发第一次做项目，改如何实现前端界面？可以直接拿开源项目过来直接用吗？
-    - 本科双飞计算机，硕士C9软件工程，进大厂选择后端开发还是算法研发？
-    - 英语基础差，学Java 难吗？
-    - 毕业两年，转行IT，零基础，学运维还是前后端开发更符合实际行业需求？
-    - 自学Java半年，可能坚持不下去了？
-    - 哪种后端技术的发展前景广阔
-    - 目前学前端好还是Java后台好？
-    - 做一个小程序到底需要多少钱？
-    - 后端入库前不做校验，完全依赖前端表单验证，这合理么？
-    - 初中学历，现在学前端来得及吗？
-    - 自学一周能做出一个基于web的前端网站吗？
-    - JS，C，C++，Python，Java零基础哪个最好学？
-
+    - 答疑解惑
+        - [只会VUE 想学一门后端语言开发自己的Blog 应该学Java 还是 NodeJS](https://mp.weixin.qq.com/s/-OHpgz9aoIJ6nnnf7aa4_g)
+        - [大专学历，27岁自学Java晚不晚](https://mp.weixin.qq.com/s/6_sjHdsLitH8c-ueCPvdJQ)
+        - [Java 和 Python 学哪个比较有前景](https://mp.weixin.qq.com/s/77vN8D2imH4DWrfq36-C-w)
+        - [非计算机专业学Java 自学还是去培训班](https://mp.weixin.qq.com/s/KsoX5etAtNS6pHP1qRqSNg)
+        - 前端开发有需要转后端吗？
+        - 后端开发第一次做项目，改如何实现前端界面？可以直接拿开源项目过来直接用吗？
+        - [做一个小程序到底需要多少钱？](https://mp.weixin.qq.com/s/75x5dhIbjHIKUkqNS7ypEw)
+        - 后端入库前不做校验，完全依赖前端表单验证，这合理么？
+        - [自学一周能做出一个商城么？](https://mp.weixin.qq.com/s/QLf5vM9OSAf2eXSZCviHHQ)
+        - JS，C，C++，Python，Java零基础哪个最好学？
+    - redis
+        - [布隆过滤器 BloomFilter](https://mp.weixin.qq.com/s/lrw1Hb1Wg-2wW9S1bCkAfA)
+        - [redis常见问题-雪崩](https://mp.weixin.qq.com/s/BTEs8VxQJXWK1T66hRCBdw)
+        - [为什么Instagram放弃了Redis投身Cassandra](https://mp.weixin.qq.com/s/FboYYyLfbhSg7YumdMy_aw)
+        - [Memcached与Redis对比](https://mp.weixin.qq.com/s/AFmcAkDxHNZxr4rxOLBzgA)
+    - nginx
+        - [nginx做图片服务安全么？](https://mp.weixin.qq.com/s/rcp3PgYKxeonYe_obHIczQ)
 
