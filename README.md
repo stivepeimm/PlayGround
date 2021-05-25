@@ -59,6 +59,9 @@
     - [同事干私活要不要举报他](https://mp.weixin.qq.com/s/MhjwZ8ppS12LJagvml0GJQ)
     - [技术牛B的人修改BUG就一定很快吗？](https://mp.weixin.qq.com/s/FWWUlD9Gsl332ACnylBweA)
     - [文科生误国？理科生在干嘛？](https://mp.weixin.qq.com/s/Ia0MAiNtUq07GQit0PAh1Q)
+    - [华为工单系统要是没有夜班，那么这加班也太狠了](https://mp.weixin.qq.com/s/xJnJeMyFf16y7lQ-Z2Xljw)
+    - 这两天在和小程序文档较劲
+    - gitHub clone代码最快的方式
 - 前后端分离
     - [前后端分离到底分离了什么](https://mp.weixin.qq.com/s/2cUQlbakZNDQhtkBq8D_2g)
     - 前后端分离后倒地谁多干活了
@@ -92,7 +95,7 @@
                 - [其他开源uniapp 打包 app 填坑指南](https://mp.weixin.qq.com/s/jbFjzdPu6Q1FKSZ7KkRQmA)
             - 打包IOS
                 - [IOS证书申请和Hbuilder基本操作](https://mp.weixin.qq.com/s/JS8zp34NmB-tQBnoupuJyw)
-                - [IOS最简单的内侧方式](https://mp.weixin.qq.com/s/qCkPRJZNWeRnm1-P7XLr1w)
+                - [IOS最简单的内测方式](https://mp.weixin.qq.com/s/qCkPRJZNWeRnm1-P7XLr1w)
                 - [IOS公测TestFlight](https://mp.weixin.qq.com/s/t6x28PD35hH2JH3rpHTmTg)
                 - [记一次IOS APP 审核经历](https://mp.weixin.qq.com/s/dhzqK03WvAvB6KIhW9-CsQ)
 - Mac
@@ -103,12 +106,11 @@
         - [大专学历，27岁自学Java晚不晚](https://mp.weixin.qq.com/s/6_sjHdsLitH8c-ueCPvdJQ)
         - [Java 和 Python 学哪个比较有前景](https://mp.weixin.qq.com/s/77vN8D2imH4DWrfq36-C-w)
         - [非计算机专业学Java 自学还是去培训班](https://mp.weixin.qq.com/s/KsoX5etAtNS6pHP1qRqSNg)
-        - 前端开发有需要转后端吗？
+        - [前端开发有需要转后端吗？](https://mp.weixin.qq.com/s/7LOMorxbiy2WUZoy3-Cs9w)
         - 后端开发第一次做项目，改如何实现前端界面？可以直接拿开源项目过来直接用吗？
         - [做一个小程序到底需要多少钱？](https://mp.weixin.qq.com/s/75x5dhIbjHIKUkqNS7ypEw)
         - 后端入库前不做校验，完全依赖前端表单验证，这合理么？
         - [自学一周能做出一个商城么？](https://mp.weixin.qq.com/s/QLf5vM9OSAf2eXSZCviHHQ)
-        - JS，C，C++，Python，Java零基础哪个最好学？
     - redis
         - [布隆过滤器 BloomFilter](https://mp.weixin.qq.com/s/lrw1Hb1Wg-2wW9S1bCkAfA)
         - [redis常见问题-雪崩](https://mp.weixin.qq.com/s/BTEs8VxQJXWK1T66hRCBdw)
@@ -116,4 +118,7 @@
         - [Memcached与Redis对比](https://mp.weixin.qq.com/s/AFmcAkDxHNZxr4rxOLBzgA)
     - nginx
         - [nginx做图片服务安全么？](https://mp.weixin.qq.com/s/rcp3PgYKxeonYe_obHIczQ)
-
+    - 前端
+        - npm install 卡住了,失败怎么办？
+        - js 深拷贝和浅拷贝
+        - element ui 中 dialog 数据不更新怎么处理？
